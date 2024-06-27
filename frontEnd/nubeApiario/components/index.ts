@@ -1,0 +1,1 @@
+export {tabColapsiblePanal} from './tabColapsiblePanal';
