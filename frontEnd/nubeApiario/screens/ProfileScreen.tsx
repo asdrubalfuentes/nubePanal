@@ -7,7 +7,7 @@ const text = 'Manejo de la navegación basada en el estado de un Switch: Si el S
 const ProfileScreen = ({navigation, route}) => {
 
     const handleDetails = () => {
-        navigation.navigate('Details', { name: text });
+        navigation.navigate('Login', { name: text });
     };
 
     return(
